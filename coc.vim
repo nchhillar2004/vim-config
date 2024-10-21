@@ -1,3 +1,4 @@
+" set jdk path (only for linux)
 "java.configuration.runtimes": [
   {
     "name": "JavaSE-21",
